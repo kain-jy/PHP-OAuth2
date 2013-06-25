@@ -9,6 +9,10 @@
         {
             "name": "Berejeb Anis",
             "email": "anis.berejeb@gmail.com"
+        },
+        {
+            "name": "kain",
+            "email": "kain@kai-net.com"
         }
     ],
     "autoload": {
